@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/navaneethkm004/discord-24x7-music.git"
+    "url": "git+https://github.com/Professor-Nobody/radio-bot-always-music.git"
   },
   "keywords": [
     "discord",
@@ -26,10 +26,10 @@
     "247",
     "java"
   ],
-  "author": "Navaneeth K M",
+  "author": "Professor Nobody",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/navaneethkm004/discord-24x7-music/issues"
   },
-  "homepage": "https://github.com/navaneethkm004/discord-24x7-music#readme"
+  "homepage": "https://github.com/Professor-Nobody/radio-bot-always-music#readme"
 }
