@@ -6,7 +6,7 @@ note :- Youtube links not working now. i will work on that also.
 
 Here i am giving you a guys. you can copy live links from here.
 
-https://ilovemusic.de/streams/
+https://ilovemusic.de/streams/ just paste the copied link from this website in songs.txt and remove the link that aready there.
 
 you can also ask questions about this or any other kind of help you want.
 
